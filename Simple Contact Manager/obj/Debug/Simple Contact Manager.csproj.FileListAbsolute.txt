@@ -10,3 +10,9 @@ E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug
 C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe.config
 C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple Contact Manager.exe
 C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple Contact Manager.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\bin\Debug\Simple Contact Manager.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple Contact Manager.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.frmContacts.resources
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Home Assignment\Simple Contact Manager\Simple Contact Manager 1\Simple Contact Manager\obj\Debug\Simple Contact Manager.csproj.GenerateResource.Cache
