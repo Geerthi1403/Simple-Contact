@@ -32,20 +32,25 @@ namespace Simple_Contact_Manager
                         // Bug: Doesn't check if fields are empty
                         // Bug: Accepts invalid phone number
                         lstDisplay.Items.Add(name + " - " + phone);
+                        txtName.Clear();
+                        txtPhone.Clear();
                     }
                     else
                     {
                         MessageBox.Show("Length should be below 11.");
+                        Clear();
                     }
                 }
                 else
                 {
                     MessageBox.Show("Phone number should in digit.");
+                    Clear();
                 }
             }
             else
             {
                 MessageBox.Show("Fields can't be empty.");
+                Clear();
             }
         }
 
@@ -53,5 +58,32 @@ namespace Simple_Contact_Manager
         {
 
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtName.Clear();
+            txtPhone.Clear();
+
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (lstDisplay.SelectedItem != null)
+            {
+                lstDisplay.Items.Remove(lstDisplay.SelectedItem);
+            }
+            else
+            {
+                MessageBox.Show("Please select a contact in a list box.");
+                Clear();
+            }
+        }
+
+        private void Clear()
+        {
+            txtName.Clear();
+            txtPhone.Clear();
+        }
+
     }
 }
